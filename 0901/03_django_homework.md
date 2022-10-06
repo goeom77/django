@@ -1,4 +1,4 @@
-### Model 반영하기
+### Model 반영하기:weary:
 
 “Django가 Model에 생긴 변화를 DB에 반영하는 방법” 을 뜻하는 용어를 작성하시오
 
